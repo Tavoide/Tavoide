@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, soy Gustavo Benítez</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
+<h3 align="center">Un apasionado desarrollador Full Stack de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en **FertiMed**
+- 🔭 Actualmente estoy trabajando en **
+- Train It**
 
-- 👯 Busco colaborar en proyectos con **React, JavaScript, Python, SQL**
+- 👯 Busco colaborar en proyectos con ** JavaScript, Python, React, Next, SQL**
 
 - 💬 Pregúntame sobre **React, Bootstrap, JavaScript, Python, SQL**
 
