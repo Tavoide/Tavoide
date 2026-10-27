@@ -8,7 +8,7 @@
 
 - 💬 Pregúntame sobre **React, Bootstrap, JavaScript, Python, SQL**
 
-- 📫 Cómo contactarme: **gustavobenitez116@gmai.com**
+- 📫 Cómo contactarme: **gustavobenitez116@gmail.com**
 
 - 📄 Conoce más sobre mi experiencia: [https://flowcv.com/resume/cg7sgcl59kwt](https://flowcv.com/resume/cg7sgcl59kwt)
 
